@@ -1,6 +1,6 @@
 # MySqlProjects   
 In Sql Project we Added Pizza Sales Project 
-Hy My Name is TarunIHenre are atcouplre of optoions for a pizzasales introdution, dipending
+Hy My Name is Tarun There are at Couple of options for a pizzasales introdution, dipending
 on your audience and goals:
 For a general audience:
 Let's talk pizza! It's a global phenomenon, a delicious comfort food, and a billion-dollar industry. Today, we're diving into the world of pizza sales,
